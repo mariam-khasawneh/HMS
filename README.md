@@ -34,22 +34,4 @@ This project is a web-based platform designed for a **Physical Therapy Hospital*
   - [Figma](https://www.figma.com/): Used for designing UI/UX mockups.
   - [Trello](https://trello.com/): For task management and project planning.
 
----
 
-## Installation and Setup
-
-Follow these instructions to set up the project locally on your machine.
-
-### Prerequisites
-
-Ensure you have the following software installed on your system:
-
-- **Node.js** (v14 or higher)
-- **PostgreSQL** (v12 or higher)
-- **Git**
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/physical-therapy-hospital.git
-cd physical-therapy-hospital
